@@ -52,6 +52,12 @@ _Spatial data pipelines • Model deployment • Custom APIs • Open-source GIS
 
 ---
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ruby,javascript,fastapi,pytorch,postgresql&theme=dark" height="42" />
+</p>
+
+---
+
 ### 🌎 Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/oscgonz19)
