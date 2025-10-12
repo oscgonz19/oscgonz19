@@ -49,23 +49,6 @@ _Spatial data pipelines • Model deployment • Custom APIs • Open-source GIS
 - **[LangChain News Pipeline](#)**  
   Financial news classifier and summarizer using LLMs and vector databases for cannabis & psychedelics markets.
 
----
-
-### 📊 Data in Action
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oscgonz19&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oscgonz19&theme=tokyonight" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oscgonz19&theme=tokyonight" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ruby,javascript,fastapi,pytorch,postgresql&theme=dark" height="42" />
-</p>
-
 
 ---
 
