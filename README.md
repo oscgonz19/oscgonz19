@@ -53,7 +53,14 @@ _Spatial data pipelines • Model deployment • Custom APIs • Open-source GIS
 
 ### 📊 Data in Action
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=oscgonz19&show_icons=true&count_private=true&hide=issues,contribs&theme=default&include_all_commits=true&custom_title=Oscar%20Gonzalez%20%7C%20GitHub%20Stats" alt="Oscar's GitHub stats" height="140"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscgonz19&layout=compact&theme=default&langs_count=8&hide=jupyter%20notebook,html,css,scss,less,makefile,tex&custom_title=Top%20Languages%20(Highlighted%20%3A%20Python,%20Ruby,%20JS)" alt="Oscar's Top Languages" height="140"/> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=python,ruby,javascript&theme=light" alt="Core Languages" height="40"/> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oscgonz19&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscgonz19&layout=compact&langs_count=6&hide=jupyter%20notebook,html,css,scss,makefile,tex&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ruby,javascript,fastapi,pytorch,postgresql&theme=dark" height="45" />
+</p>
 
 ---
 
