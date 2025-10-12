@@ -55,12 +55,17 @@ _Spatial data pipelines • Model deployment • Custom APIs • Open-source GIS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oscgonz19&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscgonz19&layout=compact&langs_count=6&hide=jupyter%20notebook,html,css,scss,makefile,tex&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ruby,javascript,fastapi,pytorch,postgresql&theme=dark" height="45" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oscgonz19&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oscgonz19&theme=tokyonight" height="150" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ruby,javascript,fastapi,pytorch,postgresql&theme=dark" height="42" />
+</p>
+
 
 ---
 
