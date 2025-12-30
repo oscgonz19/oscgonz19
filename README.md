@@ -40,7 +40,7 @@ _Spatial data pipelines • Model deployment • Custom APIs • Open-source GIS
 
 ### 🚀 Featured Projects
 
-- **[JekeStats](#)**  
+- **[[AXMStats](https://github.com/oscgonz19/football-probabilities-ml-poisson-case-study.git)](#)**  
   Predictive football analytics platform using xG models, Poisson-based forecasting, and real-time APIs.
 
 - **[GeoRisk Automation](#)**  
