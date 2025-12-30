@@ -40,13 +40,13 @@ _Spatial data pipelines • Model deployment • Custom APIs • Open-source GIS
 
 ### 🚀 Featured Projects
 
-- **[[AXMStats](https://github.com/oscgonz19/football-probabilities-ml-poisson-case-study.git)](#)**  
+- **[[Football Probability Prediction System](https://github.com/oscgonz19/football-probabilities-ml-poisson-case-study.git)](#)**  
   Predictive football analytics platform using xG models, Poisson-based forecasting, and real-time APIs.
 
-- **[GeoRisk Automation](#)**  
+- **[GeoRisk Automation](https://github.com/oscgonz19/pijao-hazard-dashboard)**  
   Automated pipeline for geomorphological and geological risk analysis using Python and GIS data.
 
-- **[LangChain News Pipeline](#)**  
+- **[LangChain News Pipeline]([https://github.com/oscgonz19/Automated-Financial-Analysis-LLM-RAG.git](https://github.com/oscgonz19/PsyCannaFinance))**  
   Financial news classifier and summarizer using LLMs and vector databases for cannabis & psychedelics markets.
 
 
