@@ -54,7 +54,7 @@ _Spatial data pipelines • Model deployment • Custom APIs • Open-source GIS
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=r,python,ruby,javascript,fastapi,pytorch,postgresql&theme=dark" height="42" />
+  <img src="https://skillicons.dev/icons?i=python,ruby,javascript,r,fastapi,pytorch,postgresql&theme=dark" height="42" />
 </p>
 
 ---
