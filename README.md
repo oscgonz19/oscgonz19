@@ -21,6 +21,7 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/GeoPandas-4DAA57?logo=python&logoColor=white" />
+   <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/QGIS-589632?logo=qgis&logoColor=white" />
   <img src="https://img.shields.io/badge/PostGIS-FFCA00?logo=postgresql&logoColor=black" />
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
