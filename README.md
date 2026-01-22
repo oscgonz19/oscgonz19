@@ -1,62 +1,68 @@
 <!-- Profile README for oscgonz19 -->
 
 <h1 align="center">Hi, I'm Oscar 👋</h1>
-<h3 align="center"> Machine Learning Engineer, Geospatial Data Scientist (MSc) & Geologist</h3>
+<h3 align="center">
+Applied Machine Learning Engineer · GenAI / LLMs · MLOps · Python
+</h3>
+
 <p align="center">
   <em>
-I build production-ready ML/LLM systems: data pipelines → model/agent development → APIs → evaluation & monitoring.  
-Background in geoscience and risk analytics </em>
+I build end-to-end ML and LLM systems — from data pipelines to deployed APIs.  
+Background in geoscience and risk analytics (useful for complex, real-world data).
+  </em>
 </p>
 
 ---
 
 ### ⚡ About Me
 
-- Geospatial Data Scientist (MSc) & Geologist — experienced in **spatial analytics**, **environmental risk assessment**, and **predictive modeling**.
-- I combine geoscience and data science to build intelligent systems that understand the physical world — from **predicting football outcomes** to **modeling geological risk**.
-- Driven by curiosity, precision, and the challenge of turning complex data into practical insight.
+- **Applied ML Engineer (M.Sc. Data Science)** with a background in **geology and geospatial risk**.
+- I focus on building **reliable ML / LLM applications**: data ingestion, modeling, APIs, evaluation, and monitoring.
+- Comfortable working with **messy, high-noise datasets** and translating domain constraints into deployable systems.
+- Experience across **LLM pipelines, statistical modeling, and geospatial analytics**.
 
 ---
 
-### 🛠️ Skills & Tools  
+### 🛠️ Core Skills & Tools  
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/GeoPandas-4DAA57?logo=python&logoColor=white" />
-   <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/QGIS-589632?logo=qgis&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostGIS-FFCA00?logo=postgresql&logoColor=black" />
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-FFD700?logo=python&logoColor=black" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-FFD700?logo=python&logoColor=black" />
   <img src="https://img.shields.io/badge/Chroma-0A192F?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-Arch-1793D1?logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/WSL2-0078D6?logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-1793D1?logo=linux&logoColor=white" />
 </p>
 
-_Spatial data pipelines • Model deployment • Custom APIs • Open-source GIS tools_
+_ML pipelines • LLM/RAG systems • Model serving • Evaluation & monitoring_
 
 ---
 
 ### 🚀 Featured Projects
 
-- **[Football Probability Prediction System](https://github.com/oscgonz19/football-probabilities-ml-poisson-case-study.git)]**  
-  Predictive football analytics platform using xG models, Poisson-based forecasting, and real-time APIs.
+- **[Football Probability Engine](https://github.com/oscgonz19/football-probabilities-ml-poisson-case-study)**  
+  End-to-end predictive system combining Bayesian models and ML.  
+  *Python · FastAPI · MLflow · PostgreSQL*  
+  _Production-grade architecture (side project, reproducible case study)._
 
 - **[GeoRisk Automation](https://github.com/oscgonz19/pijao-hazard-dashboard)**  
-  Automated pipeline for geomorphological and geological risk analysis using Python and GIS data.
+  ML-assisted geological risk analysis for infrastructure projects.  
+  *Python · scikit-learn · QGIS · GeoPandas*  
+  _Consultancy project for decision support (not production deployment)._
 
-- **[LangChain News Pipeline](https://github.com/oscgonz19/PsyCannaFinance)**  
-  Financial news classifier and summarizer using LLMs and vector databases for cannabis & psychedelics markets.
-
+- **[LLM News Pipeline](https://github.com/oscgonz19/PsyCannaFinance)**  
+  LLM-based financial news classification and summarization pipeline.  
+  *Python · LangChain · Embeddings · Vector DB*  
+  _Automated tagging and deduplication for market intelligence._
 
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ruby,javascript,r,fastapi,pytorch,postgresql&theme=dark" height="42" />
+  <img src="https://skillicons.dev/icons?i=python,ruby,javascript,r,fastapi,pytorch,postgresql,docker&theme=dark" height="42" />
 </p>
 
 ---
@@ -68,16 +74,16 @@ _Spatial data pipelines • Model deployment • Custom APIs • Open-source GIS
 
 ---
 
-### 👾 Fun Facts
-  
-- Hiking, sport analytics, and philosophy of technology  
-- Minimalist Linux setups (Arch/WSL2)  
-- Advocate for open-source GIS
+### 👾 Interests
 
----
+- Applied ML & LLM systems  
+- Risk modeling and geospatial analytics  
+- Linux-based workflows (Arch / WSL2)  
+- Open-source and reproducible research
 
 <details>
-<summary>🗺️ More about my journey</summary>
+<summary>🗺️ Background</summary>
 <br>
-From field geology to cloud-based spatial ML — I love exploring new tech and collaborating on projects at the intersection of physical and digital worlds.
+My path goes from field geology to applied machine learning.  
+I enjoy working at the intersection of **physical systems, data, and software engineering**, turning complex domains into deployable ML solutions.
 </details>
