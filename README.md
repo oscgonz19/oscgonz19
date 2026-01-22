@@ -4,7 +4,7 @@
 <h3 align="center"> Machine Learning Engineer, Geospatial Data Scientist (MSc) & Geologist</h3>
 <p align="center">
   <em>
-I build **production-ready ML/LLM systems**: data pipelines → model/agent development → APIs → evaluation & monitoring.  
+I build *production-ready ML/LLM systems*: data pipelines → model/agent development → APIs → evaluation & monitoring.  
 Background in geoscience and risk analytics </em>
 </p>
 
