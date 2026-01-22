@@ -1,9 +1,11 @@
 <!-- Profile README for oscgonz19 -->
 
 <h1 align="center">Hi, I'm Oscar 👋</h1>
-<h3 align="center">Geospatial Data Scientist (MSc) & Geologist</h3>
+<h3 align="center"> Machine Learning Engineer, Geospatial Data Scientist (MSc) & Geologist</h3>
 <p align="center">
-  <em>Bridging geoscience, data science, and applied machine learning</em>
+  <em>
+I build **production-ready ML/LLM systems**: data pipelines → model/agent development → APIs → evaluation & monitoring.  
+Background in geoscience and risk analytics </em>
 </p>
 
 ---
