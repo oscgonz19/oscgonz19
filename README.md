@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Oscar 👋</h1>
 <h3 align="center">
-Applied Machine Learning Engineer · GenAI / LLMs · MLOps · Python
+Data Scientist | Production ML & MLOps | Applied AI & GeoML |
 </h3>
 
 <p align="center">
