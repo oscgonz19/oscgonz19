@@ -2,13 +2,16 @@
 
 <h1 align="center">Hi, I'm Oscar 👋</h1>
 <h3 align="center">
-Data Scientist | Production ML & MLOps | Applied AI & GeoML |
+Applied Data Scientist | Decision Systems & Risk Modeling | GeoAI & Operational ML
+
 </h3>
 
 <p align="center">
   <em>
-I build end-to-end ML and LLM systems — from data pipelines to deployed APIs.  
-Background in geoscience and risk analytics (useful for complex, real-world data).
+I design and implement systems that support decisions under uncertainty:
+- Bayesian probabilistic models
+- Risk quantification
+- End-to-end ML & API systems
   </em>
 </p>
 
