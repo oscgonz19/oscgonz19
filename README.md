@@ -1,17 +1,14 @@
 <!-- Profile README for oscgonz19 -->
-
 <h1 align="center">Hi, I'm Oscar 👋</h1>
 <h3 align="center">
-Applied Data Scientist | Decision Systems & Risk Modeling | GeoAI & Operational ML
-
+Geoscientist | Subsurface Characterisation & Risk Modeling | Seismic Signal Processing & ML
 </h3>
-
 <p align="center">
   <em>
-I design and implement systems that support decisions under uncertainty:
-- Bayesian probabilistic models
-- Risk quantification
-- End-to-end ML & API systems
+I build systems that quantify subsurface uncertainty and support decisions under geological risk:
+- Seismic signal processing & velocity inversion
+- Probabilistic risk models
+- End-to-end ML pipelines for geoscience workflows
   </em>
 </p>
 
@@ -19,10 +16,11 @@ I design and implement systems that support decisions under uncertainty:
 
 ### ⚡ About Me
 
-- **Applied ML Engineer (M.Sc. Data Science)** with a background in **geology and geospatial risk**.
-- I focus on building **reliable ML / LLM applications**: data ingestion, modeling, APIs, evaluation, and monitoring.
-- Comfortable working with **messy, high-noise datasets** and translating domain constraints into deployable systems.
-- Experience across **LLM pipelines, statistical modeling, and geospatial analytics**.
+- **Geoscientist (B.Sc. Geology, M.Sc. Data Science)** bridging earth sciences and applied ML.
+- Experience processing **passive seismic data (ReMi/MASW)** for shear-wave velocity profiling and site characterisation.
+- I focus on **integrating multi-source geophysical data** (seismic, terrain, satellite imagery) into interpretable subsurface models.
+- Comfortable with **noisy field data**, signal processing workflows, and translating geological constraints into deployable systems.
+- Background in **geological hazard assessment, geotechnical analysis, and infrastructure risk**.
 
 ---
 
@@ -30,42 +28,49 @@ I design and implement systems that support decisions under uncertainty:
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/ObsPy-4B8BBE?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-FFD700?logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/Chroma-0A192F?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/QGIS-589632?logo=qgis&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-1793D1?logo=linux&logoColor=white" />
 </p>
 
-_ML pipelines • LLM/RAG systems • Model serving • Evaluation & monitoring_
+_Seismic processing • Geospatial analysis • ML pipelines • Signal processing • Model serving_
 
 ---
 
 ### 🚀 Featured Projects
 
-- **[Football Probability Engine](https://github.com/oscgonz19/football-probabilities-ml-poisson-case-study)**  
-  End-to-end predictive system combining Bayesian models and ML.  
-  *Python · FastAPI · MLflow · PostgreSQL*  
-  _Production-grade architecture (side project, reproducible case study)._
+- **[ReMi Seismic Processing Pipeline](https://github.com/oscgonz19/remi-seismic-pipeline)**  
+  End-to-end passive seismic processing: SEG-2 ingestion → signal QC → f–v spectrum → dispersion picking → Vs inversion.  
+  *Python · ObsPy · NumPy/SciPy · PyTorch*  
+  _Includes ML-assisted dispersion ridge picker. Validated Vs30 estimates against field reference data._
 
-- **[GeoRisk Automation](https://github.com/oscgonz19/pijao-hazard-dashboard)**  
-  ML-assisted geological risk analysis for infrastructure projects.  
+- **[GeoRisk-ML: Geological Hazard Classification](https://github.com/oscgonz19/pijao-hazard-dashboard)**  
+  ML pipeline for terrain stability assessment integrating DEMs, geotechnical parameters, and satellite imagery.  
   *Python · scikit-learn · QGIS · GeoPandas*  
-  _Consultancy project for decision support (not production deployment)._
+  _91.7% accuracy in risk classification. Consultancy project for infrastructure decision support._
 
-- **[LLM News Pipeline](https://github.com/oscgonz19/PsyCannaFinance)**  
-  LLM-based financial news classification and summarization pipeline.  
+- **[SportModelingAPI: Probabilistic Prediction Engine](https://github.com/oscgonz19/football-probabilities-ml-poisson-case-study)**  
+  Bayesian and ML models for event forecasting with calibration monitoring.  
+  *Python · FastAPI · PyMC · MLflow · PostgreSQL*  
+  _Production-grade architecture demonstrating end-to-end ML deployment._
+
+- **[LLM News Classification Pipeline](https://github.com/oscgonz19/PsyCannaFinance)**  
+  Automated content classification and summarization using LLMs.  
   *Python · LangChain · Embeddings · Vector DB*  
-  _Automated tagging and deduplication for market intelligence._
+  _Market intelligence automation for editorial workflows._
 
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ruby,javascript,r,fastapi,pytorch,postgresql,docker&theme=dark" height="42" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,postgresql,docker,linux&theme=dark" height="42" />
 </p>
 
 ---
@@ -79,14 +84,18 @@ _ML pipelines • LLM/RAG systems • Model serving • Evaluation & monitoring_
 
 ### 👾 Interests
 
-- Applied ML & LLM systems  
-- Risk modeling and geospatial analytics  
+- Seismic signal processing & subsurface characterisation
+- Geological risk modeling and uncertainty quantification  
+- ML for geoscience interpretation workflows
 - Linux-based workflows (Arch / WSL2)  
 - Open-source and reproducible research
 
 <details>
 <summary>🗺️ Background</summary>
 <br>
-My path goes from field geology to applied machine learning.  
-I enjoy working at the intersection of **physical systems, data, and software engineering**, turning complex domains into deployable ML solutions.
+My path goes from field geology to applied machine learning, with a focus on subsurface characterisation.
+
+I work at the intersection of **geophysics, geological interpretation, and software engineering**—processing seismic signals, integrating multi-source data, and building ML systems that support decisions under geological uncertainty.
+
+Currently exploring opportunities in **energy sector R&D** and **subsurface analytics**.
 </details>
