@@ -17,9 +17,9 @@ I build systems that quantify subsurface uncertainty and support decisions under
 ### ⚡ About Me
 
 - **Geoscientist (B.Sc. Geology, M.Sc. Data Science)** bridging earth sciences and applied ML.
-- Experience processing **passive seismic data (ReMi/MASW)** for shear-wave velocity profiling and site characterisation.
+- Experience processing **seismic data** for shear-wave velocity profiling and site characterisation.
 - I focus on **integrating multi-source geophysical data** (seismic, terrain, satellite imagery) into interpretable subsurface models.
-- Comfortable with **noisy field data**, signal processing workflows, and translating geological constraints into deployable systems.
+- Comfortable translating geological constraints into deployable systems.
 - Background in **geological hazard assessment, geotechnical analysis, and infrastructure risk**.
 
 ---
@@ -85,7 +85,8 @@ _Seismic processing • Geospatial analysis • ML pipelines • Signal processi
 ### 👾 Interests
 
 - Seismic signal processing & subsurface characterisation
-- Geological risk modeling and uncertainty quantification  
+- Geological risk modeling and uncertainty quantification
+-   
 - ML for geoscience interpretation workflows
 - Linux-based workflows (Arch / WSL2)  
 - Open-source and reproducible research
@@ -95,7 +96,6 @@ _Seismic processing • Geospatial analysis • ML pipelines • Signal processi
 <br>
 My path goes from field geology to applied machine learning, with a focus on subsurface characterisation.
 
-I work at the intersection of **geophysics, geological interpretation, and software engineering**—processing seismic signals, integrating multi-source data, and building ML systems that support decisions under geological uncertainty.
+I work at the intersection of **geophysics, geological interpretation, and software engineering**, integrating multi-source data, and building ML systems that support decisions under uncertainty.
 
-Currently exploring opportunities in **energy sector R&D** and **subsurface analytics**.
 </details>
