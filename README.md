@@ -1,9 +1,31 @@
 <!-- Profile README for oscgonz19 -->
+
 <h1 align="center">Hi, I'm Oscar 👋</h1>
 <h3 align="center">
-Geoscientist | Data & ML Engineer | Systems & Risk Modeling
+Geoscientist | Probabilistic ML & Subsurface Systems
+</h3>
 
-## Core Stack
+<p align="center">
+  <em>
+I design systems that quantify geological uncertainty and transform subsurface signals into decision-ready models.
+<br>
+Seismic signal processing • Geospatial intelligence • End-to-end ML pipelines
+  </em>
+</p>
+
+---
+
+### ⚡ About Me
+
+- **Geoscientist (B.Sc. Geology, M.Sc. Data Science)** working at the intersection of earth sciences and applied machine learning.
+- Experience processing **passive and active seismic data** for shear-wave velocity profiling and site characterisation.
+- I integrate **multi-source geophysical data** (seismic, terrain, satellite imagery) into structured, interpretable subsurface models.
+- Comfortable translating geological constraints into reproducible ML systems.
+- Background in **geological hazard assessment, geotechnical workflows, and infrastructure risk modeling**.
+
+---
+
+### 🛠️ Core Skills & Tools  
 
 **Data & Modeling**
 <p>
@@ -14,7 +36,7 @@ Geoscientist | Data & ML Engineer | Systems & Risk Modeling
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white" />
 </p>
 
-**Geospatial & Signal**
+**Geospatial & Signal Processing**
 <p>
   <img src="https://img.shields.io/badge/ObsPy-4B8BBE?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/QGIS-589632?logo=qgis&logoColor=white" />
@@ -29,79 +51,45 @@ Geoscientist | Data & ML Engineer | Systems & Risk Modeling
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
 </p>
 
----
-
-## What I Build
-
-I design data systems that transform complex geophysical and spatial signals into reliable, decision-ready models.
-
-My work focuses on:
-
-- Deterministic data pipelines
-- Seismic & geospatial signal processing
-- Probabilistic modeling under uncertainty
-- End-to-end ML systems (training → serving → monitoring)
-
-I work at the intersection of earth science, data engineering, and applied machine learning.
+_Seismic processing • Geospatial modeling • Probabilistic systems • ML deployment_
 
 ---
 
-## Core Focus
+### 🚀 Featured Projects
 
-- **Subsurface Characterisation** (Vs profiling, dispersion analysis, inversion workflows)
-- **Geospatial Risk Modeling** (terrain intelligence, hazard classification)
-- **Probabilistic Forecasting Systems**
-- **Reproducible ML Infrastructure**
+- **[ReMi Seismic Processing Pipeline](https://github.com/oscgonz19/remi-seismic-pipeline)**  
+  End-to-end passive seismic workflow: SEG-2 ingestion → dispersion extraction → Vs inversion.  
+  ML-assisted ridge picking with validated Vs30 outputs.  
+  *Python · ObsPy · NumPy · PyTorch*
 
----
+- **[GeoRisk-ML: Geological Hazard Classification](https://github.com/oscgonz19/pijao-hazard-dashboard)**  
+  ML pipeline integrating DEM derivatives and geotechnical constraints for infrastructure risk.  
+  Structured feature engineering and deployable scoring outputs.  
+  *Python · scikit-learn · GeoPandas · QGIS*
 
-## Selected Work
+- **[Probabilistic Forecasting Engine](https://github.com/oscgonz19/football-probabilities-ml-poisson-case-study)**  
+  Bayesian + ML modeling with calibration monitoring and production API deployment.  
+  *FastAPI · PyMC · MLflow · PostgreSQL*
 
-### ReMi Seismic Processing Pipeline
-End-to-end passive seismic workflow: SEG ingestion → spectral analysis → dispersion extraction → velocity inversion.
-
-- Modular architecture
-- Reproducible signal pipeline
-- ML-assisted ridge detection
-- Field-validated Vs30 estimates
-
-Tech: Python · NumPy · ObsPy · PyTorch
-
----
-
-### GeoRisk-ML
-Terrain-based hazard classification integrating DEM derivatives and geotechnical constraints.
-
-- Structured geospatial feature engineering
-- ML-based risk scoring
-- Consultancy deployment context
-
-Tech: Python · GeoPandas · scikit-learn · QGIS
+- **[LLM News Classification Pipeline](https://github.com/oscgonz19/PsyCannaFinance)**  
+  Automated content classification and summarization using LLM-based workflows.  
+  *LangChain · Embeddings · Vector DB*
 
 ---
 
-### Probabilistic Forecasting Engine
-Production-ready ML service with calibration monitoring and structured API layer.
+### 🌎 Connect
 
-- Bayesian + ML hybrid models
-- MLflow experiment tracking
-- FastAPI deployment
-- PostgreSQL storage layer
-
-Tech: FastAPI · PyMC · MLflow · Docker
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/oscgonz19)
+[![GitHub](https://img.shields.io/badge/-GitHub-121013?logo=github&logoColor=white)](https://github.com/oscgonz19)
 
 ---
 
-## Engineering Principles
+<details>
+<summary>🗺️ Background</summary>
+<br>
 
-- Systems before scripts.
-- Uncertainty must be explicit.
-- Reproducibility is mandatory.
-- Observability over opacity.
-- Domain constraints guide model design.
+My path goes from field geology to applied machine learning, with a focus on subsurface characterisation and uncertainty modeling.
 
+I work at the intersection of **geophysics, geological interpretation, and software engineering**, building systems that support infrastructure and risk-aware decisions.
 
-## Connect
-
-LinkedIn → https://linkedin.com/in/oscgonz19  
-GitHub → https://github.com/oscgonz19
+</details>
