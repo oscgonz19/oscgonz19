@@ -27,23 +27,14 @@ Seismic signal processing • Geospatial intelligence • End-to-end ML pipeline
 
 ### 🛠️ Core Skills & Tools  
 
-**Data & Modeling**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white" />
-</p>
-
-**Geospatial & Signal Processing**
-<p>
   <img src="https://img.shields.io/badge/ObsPy-4B8BBE?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/QGIS-589632?logo=qgis&logoColor=white" />
-</p>
-
-**Systems & Deployment**
-<p>
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
