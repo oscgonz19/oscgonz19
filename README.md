@@ -3,6 +3,35 @@
 <h3 align="center">
 Geoscientist | Data & ML Engineer | Systems & Risk Modeling
 ---
+---
+
+## Core Stack
+
+**Data & Modeling**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white" />
+</p>
+
+**Geospatial & Signal**
+<p>
+  <img src="https://img.shields.io/badge/ObsPy-4B8BBE?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/QGIS-589632?logo=qgis&logoColor=white" />
+</p>
+
+**Systems & Deployment**
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-1793D1?logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+</p>
+
+---
 
 ## What I Build
 
@@ -73,35 +102,6 @@ Tech: FastAPI · PyMC · MLflow · Docker
 - Observability over opacity.
 - Domain constraints guide model design.
 
----
-
-## Core Stack
-
-**Data & Modeling**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white" />
-</p>
-
-**Geospatial & Signal**
-<p>
-  <img src="https://img.shields.io/badge/ObsPy-4B8BBE?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/QGIS-589632?logo=qgis&logoColor=white" />
-</p>
-
-**Systems & Deployment**
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-1793D1?logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-</p>
-
----
 
 ## Connect
 
