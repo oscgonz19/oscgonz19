@@ -3,7 +3,6 @@
 <h3 align="center">
 Geoscientist | Data & ML Engineer | Systems & Risk Modeling
 ---
----
 
 ## Core Stack
 
