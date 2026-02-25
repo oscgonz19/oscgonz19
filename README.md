@@ -2,7 +2,6 @@
 <h1 align="center">Hi, I'm Oscar 👋</h1>
 <h3 align="center">
 Geoscientist | Data & ML Engineer | Systems & Risk Modeling
----
 
 ## Core Stack
 
