@@ -1,15 +1,16 @@
 <!-- Profile README for oscgonz19 -->
 
+
 <h1 align="center">Hi, I'm Oscar 👋</h1>
 <h3 align="center">
-Geoscientist | Probabilistic ML & Subsurface Systems
+  Geoscientist | Geospatial Data Science | Risk &amp; Subsurface Modeling
 </h3>
 
 <p align="center">
   <em>
-I design systems that quantify geological uncertainty and transform subsurface signals into decision-ready models.
-<br>
-Seismic signal processing • Geospatial intelligence • End-to-end ML pipelines
+    I work at the intersection of geoscience, spatial analytics, and machine learning, building systems for subsurface interpretation, hazard assessment, and infrastructure risk modeling.
+    <br>
+    Seismic processing • Geospatial intelligence • Probabilistic modeling • End-to-end ML pipelines
   </em>
 </p>
 
