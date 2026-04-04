@@ -17,11 +17,14 @@ Seismic signal processing • Geospatial intelligence • End-to-end ML pipeline
 
 ### ⚡ About Me
 
-- **Geoscientist (B.Sc. Geology, M.Sc. Data Science)** working at the intersection of earth sciences and applied machine learning.
-- Experience processing **passive and active seismic data** for shear-wave velocity profiling and site characterisation.
-- I integrate **multi-source geophysical data** (seismic, terrain, satellite imagery) into structured, interpretable subsurface models.
-- Comfortable translating geological constraints into reproducible ML systems.
-- Background in **geological hazard assessment, geotechnical workflows, and infrastructure risk modeling**.
+
+Geoscientist with training in Geology and Data Science, working at the intersection of earth systems, spatial analysis, and applied machine learning.
+
+My work focuses on transforming geological, geophysical, terrain, and remote sensing data into structured models for subsurface interpretation, hazard assessment, and infrastructure analysis.
+
+I have experience integrate geoscience constraints into interpretable ML systems.
+
+My broader interests include geospatial intelligence, geological hazard modeling, geotechnical workflows, uncertainty quantification, and end-to-end data products for real-world physical systems.
 
 ---
 
