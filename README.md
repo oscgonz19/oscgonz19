@@ -11,8 +11,7 @@
 
 ### ⚡ About Me
 
-My broader interests include, data science 'statistics with code"  geospatial intelligence, geological hazard modeling, geo and no-geo workflows, end-to-end data products for real-world physical systems.
-
+My broader interests include, data science "tought statistics with code" Geological Modeling, Sports Analytics and Linux  
 ---
 
 ### 🛠️ Core Skills & Tools  
