@@ -1,31 +1,17 @@
 <!-- Profile README for oscgonz19 -->
 
 
-<h1 align="center">Hi, I'm Oscar 👋</h1>
+<h1 align="center">Hi, I'm Oscar Antonio Gonzalez but you can call me Ozz 👋</h1>
 <h3 align="center">
-  Geoscientist | Geospatial Data Science | Risk &amp; Subsurface Modeling
+  Geologist and Data Science | Risk &amp; Subsurface Modeling
 </h3>
 
-<p align="center">
-  <em>
-    I work at the intersection of geoscience, spatial analytics, and machine learning, building systems for subsurface interpretation, hazard assessment, and infrastructure risk modeling.
-    <br>
-    Seismic processing • Geospatial intelligence • Probabilistic modeling • End-to-end ML pipelines
-  </em>
-</p>
 
 ---
 
 ### ⚡ About Me
 
-
-Geoscientist with training in Geology and Data Science, working at the intersection of earth systems, spatial analysis, and applied machine learning.
-
-My work focuses on transforming geological, geophysical, terrain, and remote sensing data into structured models for subsurface interpretation, hazard assessment, and infrastructure analysis.
-
-I have experience integrate geoscience constraints into interpretable ML systems.
-
-My broader interests include geospatial intelligence, geological hazard modeling, geotechnical workflows, uncertainty quantification, and end-to-end data products for real-world physical systems.
+My broader interests include, data science 'statistics with code"  geospatial intelligence, geological hazard modeling, geo and no-geo workflows, end-to-end data products for real-world physical systems.
 
 ---
 
@@ -46,7 +32,6 @@ My broader interests include geospatial intelligence, geological hazard modeling
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
 </p>
 
-_Seismic processing • Geospatial modeling • Probabilistic systems • ML deployment_
 
 ---
 
