@@ -11,7 +11,6 @@
 
 ### ⚡ About Me
 
-My broader interests include, data science "tought statistics with code" Geological Modeling, Sports Analytics and Linux  
 ---
 
 ### 🛠️ Core Skills & Tools  
