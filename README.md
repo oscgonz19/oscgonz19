@@ -1,7 +1,7 @@
 <!-- Profile README for oscgonz19 -->
 
 
-<h1 align="center">Hi, I'm Oscar Antonio Gonzalez but you can call me Ozz 👋</h1>
+<h1 align="center">Hi, I'm Oscar Antonio Gonzalez G. but you can call me Ozz 👋</h1>
 <h3 align="center">
   Geologist and Data Science | Risk &amp; Subsurface Modeling
 </h3>
